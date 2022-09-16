@@ -20,5 +20,5 @@ num_of_Rattle_Snakes = 5
 northamerican_animals = ['Bear','Skunk','Racoon','Beaver','Trump','Walid']
 
 # Practice THREE: #Using the Array
-    # Create a new array called animals by combining both arrays together
+    # Create a new array called animals by combining both arrays together and print it
 

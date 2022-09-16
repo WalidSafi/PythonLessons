@@ -9,7 +9,7 @@ animals = ['Giraffe', 'Hippo', 'Rattle-Snake','Rabbit','Hare','Warthog','Cheetah
 
 # Practice THREE: Remove the last animal from the array, print the Array, and print the removed animal
 
-# Using insert, add to the array with the following animal: 'Elephant' after the 'Hippo'
+# Using insert, add to the array with the following animal: 'Elephant' after 'Hippo'
 
 # Using remove, remove the 'Rabbit' from the array
 

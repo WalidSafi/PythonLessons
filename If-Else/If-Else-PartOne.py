@@ -51,7 +51,7 @@ elif name == 'Kulsoom':
 
 # Practice THREE: create a random number between 1 and 4
 # IF the mark is less than 50, print 'Fail'
-# IF the mark is between 50-70, print 'Ds and Cs get degrees'
+# IF the mark is between 50 and less than 70, print 'Ds and Cs get degrees'
 # IF the mark is between 70-80, print 'Bs get better degrees'
 # IF the mark is greater than 80, print ' fking nerd'
 # IF no mark is found, print 'No mark found'

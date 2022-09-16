@@ -53,6 +53,7 @@ advanced_dict = {
 # Practice SIX: USING the DICTONARY METHODS, using items() method, print all the items of advanced_dict
 
 # Practice SEVEN: ADD a new key:value pair to the walid_dict, the key should be "built_different" and the value should be True
+# print the walid_dict
 
 # DICTIOARY METHODS
 # clear()	Removes all the elements from the dictionary
