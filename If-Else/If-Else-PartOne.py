@@ -42,7 +42,7 @@ elif name == 'Kulsoom':
 
 # Practice TWO: FIND THE BUGS AND FIX THEM. There are 4 bugs in this code
 
-# num = random.randint(1,2)
+# num = random.randint(1,9999)
 #if num % 2 > 0?
 #    print('This is ODD')
 #elseif num % 2 = 0:

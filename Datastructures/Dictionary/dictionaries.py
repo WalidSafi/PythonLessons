@@ -2,12 +2,14 @@
 # A dictionary is a collection which is unordered, changeable and does not allow duplicates.
 # Dictionaries are written with curly brackets, and have keys and values:
 
+# <key>:<value>
+# In this case the "name" is the key, and the "Walid" is the value
 walid_dict = {
     "name": "Walid",
     "last_name": "Safi",
     "age": 25,
     "country": "Canada",
-    "is_married": False,
+    "is_dumb": False,
 }
 
 kulsoom_dict = {
@@ -15,7 +17,7 @@ kulsoom_dict = {
     "last_name": "Jafri",
     "age": 26,
     "country": "Canada",
-    "is_married": False,
+    "is_dumb": False,
 }
 
 
@@ -24,7 +26,7 @@ advanced_dict = {
     "last_name": "Safi",
     "age": 25,
     "country": "Canada",
-    "is_married": False,
+    "is_dumb": False,
     "friends": ["Kulsoom", "Hassan", "Hussain"],
     "skills": ["Python", "Java", "C++"],
     "address": {
@@ -48,7 +50,9 @@ advanced_dict = {
 
 # Practice FIVE: USING the DICTONARY METHODS, using keys() method, print all the keys of advanced_dict
 
-# Practice SEVEN: USING the DICTONARY METHODS, using items() method, print all the items of advanced_dict
+# Practice SIX: USING the DICTONARY METHODS, using items() method, print all the items of advanced_dict
+
+# Practice SEVEN: ADD a new key:value pair to the walid_dict, the key should be "built_different" and the value should be True
 
 # DICTIOARY METHODS
 # clear()	Removes all the elements from the dictionary
